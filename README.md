@@ -7,6 +7,5 @@ I'm a full stack Javascript developer with a passion for beautiful UI's, who lov
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/colin-bellamy-473226187/) & [email](mailto:colin.j.bellamy@gmail.com)
 
-#### Some of my favourite technologies are...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjb0s&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
