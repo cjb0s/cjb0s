@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Colin, a full-stack Javascript developer
 
 <!--
 **cjb0s/cjb0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
