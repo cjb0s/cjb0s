@@ -1,6 +1,6 @@
 ### 👋 Hello, World! I'm Colin
 
-I'm a full stack Javascript developer with a passion for beautiful UI's, who loves building things in Typescript, React and Node.js
+A full stack Javascript developer with a passion for beautiful UI's and building things in Typescript, React and Node.js
 
 
 - 🔭 I’m currently working on making learning programming accessible with [Codehort](https://codehort-client.herokuapp.com/) and making plantcare simple with [Plantiful](https://github.com/cjb0s/plantiful)
