@@ -1,13 +1,13 @@
-### 👋 Hello, World! I'm Colin
+## 👋 Hello, World! I'm Colin
 
-A full stack Javascript developer with a passion for sleek UI's and building things in Typescript, React and Node.js
+### A full stack Javascript developer with a passion for sleek UI's and building things in Typescript, React and Node.js
 
 
 - 🔭 I’m currently working on making learning programming accessible with [Codehort](https://codehort-client.herokuapp.com/) and making plantcare simple with [Plantiful](https://github.com/cjb0s/plantiful)
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/colin-bellamy-473226187/) || [email](mailto:colin.j.bellamy@gmail.com)
 
-#### Technologies I've been using lately
+### Technologies I've been using lately
 
 <div>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
