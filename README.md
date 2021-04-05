@@ -18,7 +18,6 @@ A full stack Javascript developer with a passion for sleek UI's and building thi
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> 
   <img alt="Node.js" src="https://img.shields.io/badge/nodejs-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="Koa" src="https://img.shields.io/badge/koa-000000?logo=koas&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongoDb-339933?logo=mongoDB&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
