@@ -7,6 +7,9 @@ A full stack Javascript developer with a passion for sleek UI's and building thi
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/colin-bellamy-473226187/) || [email](mailto:colin.j.bellamy@gmail.com)
 
+### Some of my favourite technologies:
+
+<div>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
@@ -22,6 +25,7 @@ A full stack Javascript developer with a passion for sleek UI's and building thi
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+</div>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjb0s&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
