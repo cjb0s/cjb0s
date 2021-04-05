@@ -7,7 +7,7 @@ A full stack Javascript developer with a passion for sleek UI's and building thi
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/colin-bellamy-473226187/) || [email](mailto:colin.j.bellamy@gmail.com)
 
-#### Some of my favourite technologies:
+#### Technologies I've been using lately
 
 <div>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
