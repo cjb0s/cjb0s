@@ -1,8 +1,6 @@
-## 👋 Hello, World! I'm Colin
+## 👋 Hello, World! I'm Colin, a full stack Javascript developer.
 
 ### About Me
-A full stack Javascript developer
-
 
 - 🔭 I’m currently working on making learning programming accessible with [Codehort](https://codehort-client.herokuapp.com/) and making plantcare simple with [Plantiful](https://github.com/cjb0s/plantiful)
 - 🌱 I’m currently learning Cloud Firestore.
