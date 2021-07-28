@@ -1,4 +1,4 @@
-## 👋 Hello, World! I'm Colin, a full stack Javascript developer.
+## 👋 Hello, World! I'm Colin - a full stack Javascript developer.
 
 ### About Me
 
