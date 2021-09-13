@@ -5,7 +5,7 @@
 I'm Colin, a full stack Javascript developer.
 
 - 🔭 I’m currently working on making learning programming accessible with [Codehort](https://codehort-client.herokuapp.com/) and making plantcare simple with [Plantiful](https://github.com/cjb0s/plantiful)
-- 🌱 I’m currently learning Firebase.
+- 🌱 I’m currently learning Gatsby.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/colin-bellamy-473226187/) || [email](mailto:colin.j.bellamy@gmail.com)
 
 ### Technologies I've been using lately
