@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Colin, a full stack Javascript developer.
+I'm Colin, a full stack developer.
 
 - 🔭 I’m currently working on making learning programming accessible with [Codehort](https://codehort-client.herokuapp.com/) and making plantcare simple with [Plantiful](https://github.com/cjb0s/plantiful)
 - 🌱 I’m currently studying for the AWS Certified Cloud Practitioner exam.
