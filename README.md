@@ -9,8 +9,8 @@ I'm Colin, a full stack developer.
 <div>
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" />
-  <img alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?logo=React&logoColor=61DAFB&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge" />
+  <img alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?logo=React&logoColor=61DAFB&style=for-the-badge" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=Gatsby&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/nodejs-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge" />
